@@ -1,0 +1,8 @@
+{
+    "isbn": "44324354",
+    "title": "Book Three",
+    "author": {
+        "firstname": "magot",
+        "lastname": "fagot"
+    }
+}
